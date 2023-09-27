@@ -1,2 +1,2 @@
 <a href="#" style="visibility: hidden;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fxlip&show_icons=true&hide=contribs&hide_title=true&hide_border=true&theme=github_dark"></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlip&exclude_repo=VotoCerto,fxlip.github.io&langs_count=10&hide_title=true&hide_border=true&theme=github_dark"></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlip&exclude_repo=VotoCerto-Beta,fxlip.github.io&langs_count=10&hide_title=true&hide_border=true&theme=github_dark"></a>
